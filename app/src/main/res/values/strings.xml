@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyProj_13_07</string>
+    <string name="title_activity_basic">Основной экран</string>
+    <string name="title_activity_new_rack">Экран добавления/удаления стеллажа</string>
+    <string name="title_activity_new_obj">Добавление/удаление/подробности объекта</string>
+    <string name="title_activity_search">Поиск объекта</string>
+    <string name="action_add_rack">Добавить/Удалить стеллаж</string>
+    <string name="action_search">Поиск</string>
+
+
+</resources>
